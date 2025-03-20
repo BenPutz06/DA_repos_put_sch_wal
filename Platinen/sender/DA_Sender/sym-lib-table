@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RF_Zetaplus433MHz")(type "KiCad")(uri "${KIPRJMOD}/Schaltplansymbole/RF_Zetaplus433MHz.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/Schaltplansymbole/New_Library.kicad_sym")(options "")(descr ""))
+)
